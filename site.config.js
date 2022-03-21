@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Home',
-  domain: 'shendian1990.xyz',
+  domain: 'www.notion.so',
   author: 'Yanbin Shen',
 
   // open graph metadata (optional)
